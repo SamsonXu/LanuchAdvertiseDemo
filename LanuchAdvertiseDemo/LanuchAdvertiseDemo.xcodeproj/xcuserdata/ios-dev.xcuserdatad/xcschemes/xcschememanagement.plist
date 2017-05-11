@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>LanuchAdvertiseDemo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>73863C521EC4030C009B0F12</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>73863C6B1EC4030C009B0F12</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>73863C761EC4030C009B0F12</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
